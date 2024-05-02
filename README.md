@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm an experienced software engineer with a strong
 
 Here are some of the projects I've worked on:
 
-- [Project 1](https://apps.apple.com/us/app/techwich/id6444126560)
-- [Project 2](https://apps.apple.com/us/app/lendme-student/id1441175340?uo=4)
-- [Project 3](https://apps.apple.com/us/app/realtyna/id635888169)
+- [Techwich](https://apps.apple.com/us/app/techwich/id6444126560)
+- [Lendme](https://apps.apple.com/us/app/lendme-student/id1441175340?uo=4)
+- [Realtyna](https://apps.apple.com/us/app/realtyna/id635888169)
 
 Feel free to explore my repositories to learn more about my work!
 
