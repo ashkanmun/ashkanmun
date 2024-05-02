@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello, I'm Ashkan Minayy! 👋
 
-<!--
-**ashkanmun/ashkanmun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an experienced software engineer with a strong background in Swift and SwiftUI development. With over 11 years in the tech industry, I've honed my skills in crafting elegant and efficient solutions for various iOS applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Currently working as a tech lead at Techwich, driving innovation and leading projects to success.
+- 🚀 Passionate about exploring the latest trends and technologies in iOS development.
+- ✍️ Dedicated to knowledge-sharing through insightful articles and contributions to the developer community.
+- 📱 Excited to collaborate on open-source projects and explore new opportunities.
+
+## Get in Touch
+
+- 📫 Reach out to me: [Your Email](mailto:mr.minayy@gmail.com)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashkan-minayy/)
+- 🐦 Follow me on [Twitter](https://twitter.com/ashkanmun)
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+- [Project 1](https://apps.apple.com/us/app/techwich/id6444126560)
+- [Project 2](https://apps.apple.com/us/app/lendme-student/id1441175340?uo=4)
+- [Project 3](https://apps.apple.com/us/app/realtyna/id635888169)
+
+Feel free to explore my repositories to learn more about my work!
+
+## Thank You for Visiting!
+
+Thank you for stopping by my GitHub profile. Feel free to reach out if you have any questions, project ideas, or just want to connect. Let's collaborate and create amazing things together! 🚀
